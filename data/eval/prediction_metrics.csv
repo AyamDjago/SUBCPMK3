@@ -1,0 +1,2 @@
+﻿model,accuracy,precision,recall,f1_score,n_evaluated
+IndoBERT + Weighted Similarity,0.7143,0.5102,0.7143,0.5952,7

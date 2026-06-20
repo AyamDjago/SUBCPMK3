@@ -1,0 +1,36 @@
+﻿filename,word_count,char_count,keywords_found,keyword_ratio,is_valid,status,case_id,original_filename
+case_001.txt,5815,41791,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_001,putusan_1014_k__pid__2014_20260614213825.pdf
+case_002.txt,13756,100115,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_002,putusan_1122_k_pid_2015_20260614211456.pdf
+case_003.txt,6903,60520,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_003,putusan_1152_k_pid_2016_20260614212649.pdf
+case_004.txt,4132,35807,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_004,putusan_1382_k_pid_2016_20260614213455.pdf
+case_005.txt,6194,45283,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_005,putusan_1394_k_pid_2013_20260614212706.pdf
+case_006.txt,20735,185136,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_006,putusan_13_k_pid_2017_20260614212521.pdf
+case_007.txt,6089,54378,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_007,putusan_1530_k_pid_2015_20260614212713.pdf
+case_008.txt,4814,35225,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_008,putusan_1543_k_pid_2012_20260614212255.pdf
+case_009.txt,5106,37323,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_009,putusan_1691_k_pid_2025_20260615180607.pdf
+case_010.txt,83980,614497,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_010,putusan_1710_k_pid_2015_20260614213440.pdf
+case_011.txt,4424,32048,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_011,putusan_175_k_pid_2014_20260614212422.pdf
+case_012.txt,3570,28308,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_012,putusan_182_k_pid_2019_20260614212452.pdf
+case_013.txt,2822,20592,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_013,putusan_187_pk_pid_2025_20260615180724.pdf
+case_014.txt,5082,37226,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_014,putusan_1922_k_pid_2012_20260614204602.pdf
+case_015.txt,2585,19046,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_015,putusan_217_pk_pid_2025_20260615142829.pdf
+case_016.txt,9165,71362,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_016,putusan_21_k_pid_2014_20260614155300.pdf
+case_017.txt,4013,28370,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_017,putusan_234_pk_pid_2025_20260615142802.pdf
+case_018.txt,6598,48423,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_018,putusan_238_k_pid_2013_20260614212143.pdf
+case_019.txt,5763,39916,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_019,putusan_29_k_pid_2014_20260614212408.pdf
+case_020.txt,5628,39209,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_020,putusan_327_k_pid_2017_20260614212630.pdf
+case_021.txt,2734,19921,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_021,putusan_328_k_pid_2014_20260614212644.pdf
+case_022.txt,8625,59168,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_022,putusan_35_k_pid_2015_20260614212318.pdf
+case_023.txt,4435,38517,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_023,putusan_480_k_pid_2015_20260614211420.pdf
+case_024.txt,2994,26995,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_024,putusan_519_k_pid_2016_20260614213524.pdf
+case_025.txt,48417,342698,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_025,putusan_519k_pid_2008_20260614212149.pdf
+case_026.txt,3025,27219,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_026,putusan_589_k_pid_2018_20260614212112.pdf
+case_027.txt,2828,24295,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_027,putusan_652_k_pid._2013_20260614213637.pdf
+case_028.txt,3050,23512,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_028,putusan_681_k_pid_2019_20260614213928.pdf
+case_029.txt,1934,17381,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_029,putusan_699_k_pid_2016_20260614213804.pdf
+case_030.txt,2195,18176,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_030,putusan_79_k_pid_2020_20260614213516.pdf
+case_031.txt,2017,18190,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_031,putusan_7_k_pid_2018_20260614213816.pdf
+case_032.txt,2015,17373,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_032,putusan_80_k_pid_2019_20260614212552.pdf
+case_033.txt,3079,24473,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan', 'majelis hakim']",1.0,True,VALID,case_033,putusan_880_k_pid_2019_20260614212636.pdf
+case_034.txt,5472,47550,"['terdakwa', 'dakwaan', 'tuntutan', 'putusan']",0.8,True,VALID,case_034,putusan_933_k_pid_2017_20260614212008.pdf
+case_035.txt,3176,27757,"['terdakwa', 'tuntutan', 'putusan', 'majelis hakim']",0.8,True,VALID,case_035,putusan_980_k_pid_2015_20260614213907.pdf

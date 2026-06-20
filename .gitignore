@@ -1,0 +1,56 @@
+# ============================================================
+# .gitignore — CBR Pidana Pemalsuan Project
+# ============================================================
+
+# --- Data Mentah (PDF) — JANGAN di-push karena besar & sensitif ---
+data/pdf_input/
+data/pdf/
+
+# --- File Binary Besar (NumPy embeddings) ---
+data/eval/train_embeddings.npy
+*.npy
+
+# --- Python Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- Virtual Environment ---
+venv/
+env/
+.venv/
+.env/
+
+# --- Sistem Operasi ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE & Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Log files ---
+*.log
+
+# --- Environment variables ---
+.env
+*.env
+
+# --- Build / dist ---
+dist/
+build/
+*.egg-info/
+
+# --- Model cache (HuggingFace downloads) ---
+# Uncomment baris berikut jika ingin mengecualikan cache model:
+# ~/.cache/huggingface/

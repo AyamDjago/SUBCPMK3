@@ -1,0 +1,35 @@
+# ============================================================
+# Requirements - CBR Pidana Umum: Pemalsuan
+# Python >= 3.8
+# ============================================================
+
+# PDF Processing
+pdfminer.six>=20221105
+
+# Data Manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+openpyxl>=3.0.10          # Untuk ekspor .xlsx (opsional)
+
+# Machine Learning & NLP
+scikit-learn>=1.1.0
+torch>=1.13.0              # PyTorch (CPU). Untuk GPU: install versi sesuai CUDA
+transformers>=4.26.0       # IndoBERT & Hugging Face
+sentencepiece>=0.1.97      # Tokenizer IndoBERT
+
+# Utilities
+tqdm>=4.64.0               # Progress bar
+requests>=2.28.0           # HTTP requests (jika scraping tambahan)
+beautifulsoup4>=4.11.0     # HTML parsing (jika download dari web)
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0            # Opsional untuk visualisasi lebih lanjut
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Pembuatan Dokumen (Artikel & Presentasi)
+python-docx>=1.1.0          # Generate file Word (.docx) artikel ilmiah
+python-pptx>=0.6.23         # Generate file PowerPoint (.pptx) presentasi
