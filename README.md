@@ -24,8 +24,8 @@ Sistem ini mengimplementasikan siklus **Case-Based Reasoning (CBR)** berbasis Py
 |-------|----------|-----------|
 | 1 | `01_case_base.ipynb` | Konversi PDF → teks bersih (preprocessing) |
 | 2 | `02_case_representation.ipynb` | Ekstraksi metadata & fitur terstruktur |
-| 3 | `03_case_retrieval.ipynb` | Embedding IndoBERT + fungsi `retrieve()` |
-| 4 | `04_solution_reuse.ipynb` | Prediksi solusi dengan weighted similarity |
+| 3 | `03_retrieval.ipynb` | Embedding IndoBERT + fungsi `retrieve()` (alias `03_case_retrieval.ipynb`) |
+| 4 | `04_predict.ipynb` | Prediksi solusi dengan weighted similarity (alias `04_solution_reuse.ipynb`) |
 | 5 | `05_evaluation.ipynb` | Evaluasi Precision, Recall, F1, MRR |
 
 ---
@@ -39,8 +39,8 @@ cbr_pemalsuan/
 │   ├── pdf_input/                    # ← LETAKKAN 35 FILE PDF DI SINI
 │   ├── raw/                    # Output: teks bersih (*.txt)
 │   ├── processed/
-│   │   ├── cases.csv           # Representasi terstruktur (tanpa text_full)
-│   │   ├── cases.json          # Lengkap dengan text_full
+│   │   ├── cases.csv           # Representasi terstruktur (dengan text_full & pihak)
+│   │   ├── cases.json          # Lengkap dengan text_full & pihak
 │   │   └── solutions.json      # {case_id: amar_putusan}
 │   ├── eval/
 │   │   ├── train_embeddings.npy
@@ -55,8 +55,8 @@ cbr_pemalsuan/
 ├── notebooks/
 │   ├── 01_case_base.ipynb
 │   ├── 02_case_representation.ipynb
-│   ├── 03_case_retrieval.ipynb
-│   ├── 04_solution_reuse.ipynb
+│   ├── 03_retrieval.ipynb          # Sesuai Rubrik
+│   ├── 04_predict.ipynb            # Sesuai Rubrik
 │   └── 05_evaluation.ipynb
 │
 ├── logs/
@@ -148,16 +148,16 @@ notebooks/02_case_representation.ipynb
 
 #### Tahap 3: Case Retrieval (IndoBERT)
 ```
-notebooks/03_case_retrieval.ipynb
+notebooks/03_retrieval.ipynb
 ```
 - Download model `indobenchmark/indobert-base-p1` (otomatis ~450MB)
 - Buat embedding untuk semua kasus train
 - Splitting data 80:20
 - Output: `data/eval/train_embeddings.npy`
 
-#### Tahap 4: Solution Reuse
+#### Tahap 4: Solution Reuse (Prediksi)
 ```
-notebooks/04_solution_reuse.ipynb
+notebooks/04_predict.ipynb
 ```
 - Prediksi amar putusan dengan weighted similarity
 - Demo 5 kasus test
