@@ -4,7 +4,11 @@
     "query_text": "Pasal: 199, 263, 263 2, 199 1, 197 1 Dakwaan: dan bukan didasarkan pada tidak terbuktinya suatu unsur perbuatan yang didakwakan, atau apabila pembebasan itu sebenarnya adalah merupakan putusan lepas dari segala tuntutan hukum, atau apabila dalam menjatuhkan putusan itu pengadilan telah melampaui batas kewenangannya (meskipun hal ini tidak diaju Fakta: yang diungkapkan oleh pengadilan negeri tarakan sebagai berikut : 1.1.",
     "source_case": "case_014",
     "pasal": "199, 263, 263 2, 199 1, 197 1",
-    "ground_truth_case_ids": []
+    "ground_truth_case_ids": [
+      "case_001",
+      "case_002",
+      "case_004"
+    ]
   },
   {
     "query_id": "q_case_016",
@@ -12,29 +16,42 @@
     "source_case": "case_016",
     "pasal": "253, 263, 385, 406, 263 1",
     "ground_truth_case_ids": [
-      "case_001"
+      "case_001",
+      "case_002",
+      "case_003"
     ]
   },
   {
     "query_id": "q_case_020",
-    "query_text": "Pasal: 52, 253, 263 1, 188 1, 191 2 Dakwaan: jaksa penuntut umum bukan merupakan suatu tindak pidana ; 2. melepaskan terdakwa tersebut oleh karena itu dari segala Fakta: diantaranya: berdasarkan keterangan saksi-saksi yang telah didengar dengan dibawah sumpah di depan persidangan pada pokoknya menerangkan sebagai berikut : - saksi yudiono, m.pdi disclaimer kepaniteraan berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen mahkam",
+    "query_text": "Pasal: 52, 253, 263 1, 188 1, 191 2 Dakwaan: jaksa penuntut umum bukan merupakan suatu tindak pidana ; 2. melepaskan terdakwa tersebut oleh karena itu dari segala Fakta: diantaranya: berdasarkan keterangan saksi-saksi yang telah didengar dengan dibawah sumpah di depan persidangan pada pokoknya menerangkan sebagai berikut : - saksi yudiono, m.pdi hal. put. no.327 k/pid/2017 - obyek perkara yang diduga dipalsukan adalah buku leter c desa manyarejo no.215 atas nama mar",
     "source_case": "case_020",
     "pasal": "52, 253, 263 1, 188 1, 191 2",
-    "ground_truth_case_ids": []
+    "ground_truth_case_ids": [
+      "case_001",
+      "case_002",
+      "case_003"
+    ]
   },
   {
     "query_id": "q_case_022",
-    "query_text": "Pasal: 378, 266 2, 55 1, 263 1, 263 2 Dakwaan: atau kedua, sesuai fakta yang terungkap di depan persidangan hal ini dapat dilihat pada putusan pengadilan negeri rantauprapat nomor: 319/pen.pid./2012/pn-rap tanggal 06 juni 2012 secara jelas pada halaman 12 dalam Fakta: ini sehingga \"bertentangan\" dengan amar putusan. - bahwa judex facti juga mengakui bahwa salah satu unsur pasal 378 kuhp yang di dakwakan penuntut umum sesuai surat dakwaan telah terpenuhi yaitu pada halaman 13 putusan pengadilan n",
+    "query_text": "Pasal: 378, 266 2, 55 1, 263 1, 263 2 Dakwaan: atau kedua, sesuai fakta yang terungkap di depan persidangan hal ini dapat dilihat pada putusan pengadilan negeri rantauprapat nomor: 319/pen.pid./2012/pn-rap tanggal 06 juni 2012 secara jelas pada dalam Fakta: ini sehingga \"bertentangan\" dengan amar putusan. - bahwa judex facti juga mengakui bahwa salah satu unsur pasal 378 kuhp yang di dakwakan penuntut umum sesuai surat dakwaan telah terpenuhi yaitu pada putusan pengadilan negeri rantauprapat nom",
     "source_case": "case_022",
     "pasal": "378, 266 2, 55 1, 263 1, 263 2",
-    "ground_truth_case_ids": []
+    "ground_truth_case_ids": [
+      "case_001",
+      "case_002",
+      "case_003"
+    ]
   },
   {
     "query_id": "q_case_025",
     "query_text": "Pasal: 372, 368, 37 1, 87 1, 363 1 Dakwaan: pertama, dan kedua dan ketiga: pertama (dalam dakwaan kami tanggal13 oktober 2005) ; 2. menjatuhkan pidana terhadap terdakwa prof.dr. santoso s. hamidjoyo, m.sc.,ph.d. dengan pidana penjara selama 3 (tiga) tahun ; 3. menyatakan barang bukti berupa : -- 10 (sepuluh) ibr fc. legalisir rek.koran bni ca Fakta: putusan pengadilan negeri tersebut telah dijatuhkan dengan hadirnya pemohon kasasi/jaksa/penuntut umum pada kejaksaan negeri surabaya pada tanggal 1",
     "source_case": "case_025",
     "pasal": "372, 368, 37 1, 87 1, 363 1",
-    "ground_truth_case_ids": []
+    "ground_truth_case_ids": [
+      "case_005",
+      "case_026"
+    ]
   },
   {
     "query_id": "q_case_027",
@@ -43,17 +60,19 @@
     "pasal": "263, 263 1, 263 2, 191 1",
     "ground_truth_case_ids": [
       "case_001",
-      "case_017",
-      "case_029"
+      "case_002",
+      "case_003"
     ]
   },
   {
     "query_id": "q_case_030",
-    "query_text": "Pasal: 263 2, 197 1 Dakwaan: sebagaimana diatur dan diancam pidana dalampasal 263 ayat (2) kuhp;mahkamah agung tersebut;membaca Fakta: yangrelevan secara yuridis dengan tepat dan benar sesuai fakta hukum yangterungkap di muka sidang, sehingga perbuatan materiil terdakwa telahmemenuhi semua unsur tindak pidana pasal 263 ayat (2) pada dakwaantunggal; halaman putusan nomor 79 k/pid/2020 disclaimer kepaniteraan berusaha untuk selalu me",
+    "query_text": "Pasal: 263 2, 197 1 Dakwaan: sebagaimana diatur dan diancam pidana dalampasal 263 ayat (2) kuhp;mahkamah agung tersebut;membaca Fakta: yangrelevan secara yuridis dengan tepat dan benar sesuai fakta hukum yangterungkap di muka sidang, sehingga perbuatan materiil terdakwa telahmemenuhi semua unsur tindak pidana pasal 263 ayat (2) pada dakwaantunggal; dari 8 halaman putusan nomor 79 k/pid/2020 -bahwa demikian pula putusan judex facti ",
     "source_case": "case_030",
     "pasal": "263 2, 197 1",
     "ground_truth_case_ids": [
-      "case_007"
+      "case_001",
+      "case_002",
+      "case_004"
     ]
   }
 ]

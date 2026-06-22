@@ -1,4 +1,4 @@
 ﻿model,k,precision@k,recall@k,f1@k,mrr,n_queries
-IndoBERT,1,0.0,0.0,0.0,0.0,3
-IndoBERT,3,0.0,0.0,0.0,0.0,3
-IndoBERT,5,0.0667,0.1111,0.0833,0.0667,3
+IndoBERT,1,0.1429,0.0476,0.0714,0.1429,7
+IndoBERT,3,0.1429,0.1429,0.1429,0.2619,7
+IndoBERT,5,0.2,0.3333,0.25,0.3262,7

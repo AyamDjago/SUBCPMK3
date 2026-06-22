@@ -54,3 +54,17 @@ build/
 # --- Model cache (HuggingFace downloads) ---
 # Uncomment baris berikut jika ingin mengecualikan cache model:
 # ~/.cache/huggingface/
+
+# --- File yang dikecualikan dari push ---
+~$tikel_cbr.docx
+artikel_cbr_JOIV.docx
+generate_artikel_docx.py
+generate_presentasi_pptx.py
+presentasi_cbr.pptx
+notebooks/03_retrieval.ipynb
+notebooks/04_predict.ipynb
+
+# --- Temporary Word/Office files ---
+~$*.docx
+~$*.xlsx
+~$*.pptx
