@@ -175,7 +175,7 @@ notebooks/05_evaluation.ipynb
 
 ## Contoh Penggunaan Fungsi Retrieve
 
-Setelah menjalankan Tahap 3, Anda dapat langsung menggunakan fungsi retrieval:
+Setelah menjalankan Tahap 3 dapat langsung menggunakan fungsi retrieval:
 
 ```python
 # Jalankan di notebook 03 atau 04 setelah semua setup selesai
