@@ -24,8 +24,8 @@ Sistem ini mengimplementasikan siklus **Case-Based Reasoning (CBR)** berbasis Py
 |-------|----------|-----------|
 | 1 | `01_case_base.ipynb` | Konversi PDF → teks bersih (preprocessing) |
 | 2 | `02_case_representation.ipynb` | Ekstraksi metadata & fitur terstruktur |
-| 3 | `03_retrieval.ipynb` | Embedding IndoBERT + fungsi `retrieve()` (alias `03_case_retrieval.ipynb`) |
-| 4 | `04_predict.ipynb` | Prediksi solusi dengan weighted similarity (alias `04_solution_reuse.ipynb`) |
+| 3 | `03_case_retrieval.ipynb` | Embedding IndoBERT + fungsi `retrieve()` |
+| 4 | `04_solution_reuse.ipynb` | Prediksi solusi dengan weighted similarity |
 | 5 | `05_evaluation.ipynb` | Evaluasi Precision, Recall, F1, MRR |
 
 ---
