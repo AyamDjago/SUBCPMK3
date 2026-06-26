@@ -36,7 +36,7 @@ Sistem ini mengimplementasikan siklus **Case-Based Reasoning (CBR)** berbasis Py
 cbr_pemalsuan/
 │
 ├── data/
-│   ├── pdf_input/                    # ← LETAKKAN 35 FILE PDF DI SINI
+│   ├── pdf_input/               
 │   ├── raw/                    # Output: teks bersih (*.txt)
 │   ├── processed/
 │   │   ├── cases.csv           # Representasi terstruktur (dengan text_full & pihak)
@@ -55,8 +55,8 @@ cbr_pemalsuan/
 ├── notebooks/
 │   ├── 01_case_base.ipynb
 │   ├── 02_case_representation.ipynb
-│   ├── 03_retrieval.ipynb          # Sesuai Rubrik
-│   ├── 04_predict.ipynb            # Sesuai Rubrik
+│   ├── 03_case_retrieval.ipynb         
+│   ├── 04_solution_reuse.ipynb       
 │   └── 05_evaluation.ipynb
 │
 ├── logs/
@@ -65,9 +65,7 @@ cbr_pemalsuan/
 │
 ├── requirements.txt
 ├── README.md
-├── LICENSE
-├── artikel_cbr.docx           # Artikel ilmiah (format JOIV)
-└── presentasi_cbr.pptx        # Presentasi 5 slide
+└── LICENSE
 ```
 
 ---
@@ -77,7 +75,7 @@ cbr_pemalsuan/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cbr-pemalsuan.git
+git clone https://github.com/AyamDjago/cbr-pemalsuan.git
 cd cbr-pemalsuan
 ```
 
